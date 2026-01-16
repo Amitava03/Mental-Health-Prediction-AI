@@ -1,2 +1,2 @@
 # Mental-Health-Prediction-AI
-Developed a machine-Learning based system to detect mental health issues by analyzing user statements. The model interprets linguistic patterns and sentiment cues to identify potential psychological conditions with over 85% accuracy. This project demonstrates the effective use of NLP and predictive modeling in advancing mental health diagnostics.
+Developed a Python-based mental health diagnostic tool using LSTM (Long Short-Term Memory) neural networks. Achieved 85% accuracy in detecting psychological conditions by analyzing linguistic patterns and sentiment cues via NLP techniques.
